@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Zamrok",
+	"clientFolder": "MazeOT",
 	"newClientUrl" : "https://github.com/Maah8bt/mazeot-launcher/releases/download/client/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
